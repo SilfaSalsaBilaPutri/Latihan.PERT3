@@ -14,8 +14,8 @@ Sebelum membuat objek dari sebuah kelas ada beberapa hal yang harus didefinisika
 
 | Person | Nama | Jenis Kelamin | Umur |
 | -------- | --- | --- | --- |
-| Antor | Antor | L | 18 |
-| Riko | Riko | L | 19 |
+| Antor | Antor | L | 25 |
+| Riko | Riko | L | 35 |
 
 Objek Antor dan Riko adalah instance dari class Person, yang dimana atribut seperti nama, jenis kelamin, dan umur di isi biodata mereka
 # 3. Buatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
