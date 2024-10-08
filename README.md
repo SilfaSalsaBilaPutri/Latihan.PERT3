@@ -7,9 +7,10 @@ Sebelum membuat objek dari sebuah kelas ada beberapa hal yang harus didefinisika
 - Metode: Untuk mengoperasikan atau memanipulasi data objek.
 # 2. Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko!
 Diagram class
-![image](https://github.com/user-attachments/assets/e6e90461-0e30-4451-9be8-cb959495a215)
-Diagram objek
 
+![image](https://github.com/user-attachments/assets/e6e90461-0e30-4451-9be8-cb959495a215)
+
+Diagram objek
 | Person | Nama | Jenis Kelamin | Umur |
 | -------- | --- | --- | --- |
 | Antor | Antor | L | 18 |
@@ -17,7 +18,9 @@ Diagram objek
 Objek Antor dan Riko adalah instance dari class Person, yang dimana atribut seperti nama, jenis kelamin, dan umur di isi biodata mereka
 # 3. Buatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 Diagram class
+
   ![image](https://github.com/user-attachments/assets/5743b4c9-d53e-4d00-bb5f-80a2692d91ac)
+
 Diagram objek
   | Akun saya : AkunBank |
   | -------- |
