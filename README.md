@@ -1,5 +1,5 @@
 # LATIHAN 1
-# 1. Apa yang harus didefinisikan sebeum membuat objek?
+# 1. Apa yang harus didefinisikan sebelum membuat objek?
 Sebelum membuat objek dari sebuah kelas ada beberapa hal yang harus didefinisikan terlebih dahulu yaitu:
 - Kelas: Sebagai cetak biru untuk objek.
 - Atribut: Untuk menyimpan data objek.
