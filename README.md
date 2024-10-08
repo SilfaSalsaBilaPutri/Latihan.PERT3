@@ -58,7 +58,7 @@ Ketiga atribut ini menggunakan akses private, sehingga hanya bisa diakses dan di
         this.jenisKelamin = jenisKelamin;
         this.umur = umur;
     }
-Menginisialisasikan objek Person dengan memberikan nilai awal untuk nama, jenisKelamin, dan umur. Nilai-nilai tersebut disimpan dalam atribut kelas menggunakan keyword this untuk membedakannya dari parameter.
+Menganalisasikan objek Person dengan memberikan nilai awal untuk nama, jenisKelamin, dan umur. Nilai-nilai tersebut disimpan dalam atribut kelas menggunakan keyword this untuk membedakannya dari parameter.
     // Getter dan Setter untuk atribut nama
     public String getNama() {
         return nama;
